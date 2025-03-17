@@ -1,5 +1,6 @@
-import random
-
+# Description: A simple rock paper scissors game   
+# Author: Rohit Alam
+import random     
 user_wins =0
 computer_wins =0
 
